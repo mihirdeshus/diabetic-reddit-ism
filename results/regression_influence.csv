@@ -1,0 +1,301 @@
+num_comments,structural_virality,theme,cooks_distance
+12,2.358974358974359,T6 - Self-taught by default; endo support is thin,0.006065988785391415
+8,2.5555555555555554,T6 - Self-taught by default; endo support is thin,0.0015872683451552102
+15,3.0166666666666666,T1 - The mental math never stops,0.0006227168415672006
+5,2.1333333333333333,T1 - The mental math never stops,0.0012689541317260084
+3,1.6666666666666667,T4 - Hardware friction is constant,5.6395500718664026e-05
+13,2.6043956043956045,T4 - Hardware friction is constant,0.002614655713139817
+6,2.380952380952381,T6 - Self-taught by default; endo support is thin,0.002861783493430385
+14,2.419047619047619,T5 - The emotional burden is invisible,0.017162007339881526
+13,2.7032967032967035,T4 - Hardware friction is constant,0.0006851509599332668
+10,2.290909090909091,T5 - The emotional burden is invisible,0.006666421448636293
+7,2.392857142857143,T6 - Self-taught by default; endo support is thin,0.0008289965805213213
+9,2.466666666666667,T1 - The mental math never stops,3.1320939341966285e-10
+10,2.8,T4 - Hardware friction is constant,0.0027250096842164223
+6,1.9047619047619047,T5 - The emotional burden is invisible,0.005043971733156706
+7,2.5,T2 - Overnight is the frontier of fear,0.001942412303246249
+4,1.8,T2 - Overnight is the frontier of fear,0.00022315394255478113
+11,2.6666666666666665,T6 - Self-taught by default; endo support is thin,4.828181408313883e-05
+5,1.6666666666666667,T1 - The mental math never stops,0.0065995587441731686
+6,2.4761904761904763,T2 - Overnight is the frontier of fear,0.005251450832052024
+8,2.5,T4 - Hardware friction is constant,0.0005265024317526823
+4,2.0,T6 - Self-taught by default; endo support is thin,0.0018227500896724693
+14,2.9904761904761905,T2 - Overnight is the frontier of fear,0.0008022288807718923
+15,2.975,T6 - Self-taught by default; endo support is thin,0.00023730658596047503
+5,1.8666666666666667,T2 - Overnight is the frontier of fear,0.0013589916635514407
+15,3.875,T5 - The emotional burden is invisible,0.06450225401044106
+7,2.25,T5 - The emotional burden is invisible,0.0002558044340961239
+6,2.0952380952380953,T5 - The emotional burden is invisible,0.0005663417112858117
+10,2.109090909090909,T6 - Self-taught by default; endo support is thin,0.010911527622727608
+12,2.871794871794872,T2 - Overnight is the frontier of fear,0.0009486573458872586
+7,2.392857142857143,T4 - Hardware friction is constant,0.0005550839601397239
+15,2.8,T2 - Overnight is the frontier of fear,0.0011232987674209733
+15,2.875,T2 - Overnight is the frontier of fear,0.00029506099424039367
+15,3.075,T4 - Hardware friction is constant,0.001306498099050244
+11,2.484848484848485,T5 - The emotional burden is invisible,0.0029263131160345837
+4,2.0,T5 - The emotional burden is invisible,0.0011185954740042285
+2,1.3333333333333333,T2 - Overnight is the frontier of fear,0.00015901951476348058
+8,2.2777777777777777,T6 - Self-taught by default; endo support is thin,0.0005044997307847549
+10,3.090909090909091,T5 - The emotional burden is invisible,0.013155186111769955
+13,2.912087912087912,T5 - The emotional burden is invisible,0.00042119098478293906
+6,2.6666666666666665,T4 - Hardware friction is constant,0.014457865670237368
+8,2.388888888888889,T2 - Overnight is the frontier of fear,4.569005756448245e-06
+12,2.948717948717949,T2 - Overnight is the frontier of fear,0.0020325204423779146
+10,2.3636363636363638,T5 - The emotional burden is invisible,0.003971509148964856
+4,1.8,T4 - Hardware friction is constant,0.00023113902482255902
+2,1.3333333333333333,T6 - Self-taught by default; endo support is thin,3.626449692955895e-05
+15,3.316666666666667,T5 - The emotional burden is invisible,0.008616491389142295
+7,2.5714285714285716,T3 - Cost creates stratified access,0.004585801556012281
+15,2.7416666666666667,T2 - Overnight is the frontier of fear,0.0024634543226085518
+15,3.091666666666667,T3 - Cost creates stratified access,0.002137525907034549
+13,2.67032967032967,T1 - The mental math never stops,0.0008342554625684782
+15,3.1416666666666666,T6 - Self-taught by default; endo support is thin,0.0032963971312811404
+7,1.9285714285714286,T6 - Self-taught by default; endo support is thin,0.004828275725734446
+7,2.2142857142857144,T6 - Self-taught by default; endo support is thin,0.0001453123636457269
+10,2.327272727272727,T1 - The mental math never stops,0.00300870576643229
+14,2.5142857142857142,T6 - Self-taught by default; endo support is thin,0.007022076026264566
+9,2.2666666666666666,T1 - The mental math never stops,0.0021786415413870028
+12,2.923076923076923,T2 - Overnight is the frontier of fear,0.0015371721112406984
+13,3.230769230769231,T1 - The mental math never stops,0.011008667545307087
+5,2.3333333333333335,T6 - Self-taught by default; endo support is thin,0.005884897817117661
+2,1.3333333333333333,T4 - Hardware friction is constant,0.00013283493754397168
+12,3.3333333333333335,T6 - Self-taught by default; endo support is thin,0.019227904383041894
+4,1.8,T2 - Overnight is the frontier of fear,0.00022315394255478113
+3,1.5,T2 - Overnight is the frontier of fear,0.0016466133832285916
+6,2.380952380952381,T1 - The mental math never stops,0.003051673393485284
+9,2.577777777777778,T1 - The mental math never stops,0.0005203768352952694
+4,1.8,T6 - Self-taught by default; endo support is thin,1.9417942416680126e-05
+6,1.9047619047619047,T5 - The emotional burden is invisible,0.005043971733156706
+4,1.8,T3 - Cost creates stratified access,5.5431093987399845e-05
+7,1.9285714285714286,T3 - Cost creates stratified access,0.006345235276987095
+14,2.6095238095238096,T1 - The mental math never stops,0.003367569725744868
+2,1.3333333333333333,T4 - Hardware friction is constant,0.00022724820485288145
+9,2.7777777777777777,T5 - The emotional burden is invisible,0.0034926015151071133
+2,1.3333333333333333,T2 - Overnight is the frontier of fear,0.00015901951476348058
+7,2.392857142857143,T3 - Cost creates stratified access,0.0007027561980749934
+15,2.8333333333333335,T3 - Cost creates stratified access,0.0005447267136623969
+4,1.8,T1 - The mental math never stops,6.531495402533312e-05
+9,2.6444444444444444,T1 - The mental math never stops,0.0017186229818011783
+6,2.1904761904761907,T5 - The emotional burden is invisible,8.97346512226751e-08
+14,2.742857142857143,T6 - Self-taught by default; endo support is thin,0.0005374055389875847
+8,2.3333333333333335,T1 - The mental math never stops,0.00011033269315909479
+10,2.4727272727272727,T1 - The mental math never stops,0.0004622989505989534
+13,2.8241758241758244,T5 - The emotional burden is invisible,3.266666967867197e-05
+13,2.857142857142857,T3 - Cost creates stratified access,0.00029141752028787515
+8,2.2222222222222223,T4 - Hardware friction is constant,0.0016544685715753225
+12,3.076923076923077,T3 - Cost creates stratified access,0.007049903927733311
+2,1.3333333333333333,T2 - Overnight is the frontier of fear,0.00023985755217862637
+9,2.577777777777778,T5 - The emotional burden is invisible,0.00020007598771096507
+3,1.6666666666666667,T5 - The emotional burden is invisible,1.0579945397751232e-05
+7,2.5357142857142856,T3 - Cost creates stratified access,0.003996633495196668
+11,2.9242424242424243,T3 - Cost creates stratified access,0.004084817865678533
+10,2.5454545454545454,T5 - The emotional burden is invisible,0.0003456222367155606
+9,2.3777777777777778,T2 - Overnight is the frontier of fear,0.0007286834518090452
+13,3.340659340659341,T2 - Overnight is the frontier of fear,0.016175653317093718
+2,1.3333333333333333,T4 - Hardware friction is constant,0.00022724820485288145
+8,2.7222222222222223,T2 - Overnight is the frontier of fear,0.0053964414828713584
+8,2.4444444444444446,T1 - The mental math never stops,0.0002192778543581527
+4,2.0,T4 - Hardware friction is constant,0.0013753786849069443
+11,2.8181818181818183,T1 - The mental math never stops,0.0018423263492998662
+7,2.392857142857143,T3 - Cost creates stratified access,0.0007027561980749934
+12,2.641025641025641,T6 - Self-taught by default; endo support is thin,0.0003538180437428264
+8,2.111111111111111,T3 - Cost creates stratified access,0.0040660016485199015
+13,2.21978021978022,T1 - The mental math never stops,0.018538643750937035
+4,2.0,T1 - The mental math never stops,0.00186569968437518
+10,2.3636363636363638,T1 - The mental math never stops,0.0021635556874272503
+12,2.6666666666666665,T2 - Overnight is the frontier of fear,0.0003076631102977107
+15,3.183333333333333,T3 - Cost creates stratified access,0.004441139586174991
+4,2.0,T6 - Self-taught by default; endo support is thin,0.0017657166135680146
+8,2.6666666666666665,T5 - The emotional burden is invisible,0.003080332617006709
+5,1.8666666666666667,T1 - The mental math never stops,0.001069962032551539
+8,2.2777777777777777,T6 - Self-taught by default; endo support is thin,0.0005044997307847549
+12,2.6923076923076925,T2 - Overnight is the frontier of fear,0.0001321982987551513
+5,2.1333333333333333,T6 - Self-taught by default; endo support is thin,0.0009865990223020481
+5,2.066666666666667,T6 - Self-taught by default; endo support is thin,0.0003013895388251047
+11,3.1515151515151514,T2 - Overnight is the frontier of fear,0.012670930704807803
+6,2.1904761904761907,T4 - Hardware friction is constant,2.108827084372007e-05
+15,3.5416666666666665,T1 - The mental math never stops,0.02396759150880217
+10,2.3636363636363638,T4 - Hardware friction is constant,0.0027449434887198616
+3,1.6666666666666667,T6 - Self-taught by default; endo support is thin,0.00020643083699487737
+9,2.111111111111111,T2 - Overnight is the frontier of fear,0.007581285302866485
+13,3.1758241758241756,T2 - Overnight is the frontier of fear,0.007684987838856049
+2,1.3333333333333333,T5 - The emotional burden is invisible,0.0004408772938682069
+7,2.392857142857143,T3 - Cost creates stratified access,0.0007027561980749934
+4,2.0,T5 - The emotional burden is invisible,0.0008423434055423214
+13,2.6483516483516483,T2 - Overnight is the frontier of fear,0.001628752647939327
+13,2.6153846153846154,T3 - Cost creates stratified access,0.0020720694365977447
+4,1.6,T4 - Hardware friction is constant,0.003967620550065597
+14,2.5142857142857142,T2 - Overnight is the frontier of fear,0.0077375464533902
+7,2.25,T2 - Overnight is the frontier of fear,7.723931054668344e-05
+2,1.3333333333333333,T5 - The emotional burden is invisible,0.0005503947742097031
+12,2.5384615384615383,T1 - The mental math never stops,0.001712428410939509
+10,2.6545454545454548,T6 - Self-taught by default; endo support is thin,0.00042540045312728964
+9,2.577777777777778,T2 - Overnight is the frontier of fear,0.00034112377740994526
+11,2.4393939393939394,T5 - The emotional burden is invisible,0.004270768244570384
+14,2.742857142857143,T3 - Cost creates stratified access,0.0007844002827810411
+6,2.0952380952380953,T4 - Hardware friction is constant,0.00024357826554257696
+7,2.2142857142857144,T3 - Cost creates stratified access,0.00015428767317130241
+6,1.9047619047619047,T3 - Cost creates stratified access,0.003217994778959275
+7,1.75,T3 - Cost creates stratified access,0.014845678040750225
+6,1.9047619047619047,T2 - Overnight is the frontier of fear,0.0036430263890988917
+12,2.769230769230769,T6 - Self-taught by default; endo support is thin,0.00013454810637974698
+2,1.3333333333333333,T6 - Self-taught by default; endo support is thin,7.184242488833154e-06
+5,1.6666666666666667,T6 - Self-taught by default; endo support is thin,0.005136330291318894
+4,2.0,T5 - The emotional burden is invisible,0.0011185954740042285
+4,2.0,T5 - The emotional burden is invisible,0.0008423434055423214
+15,2.7083333333333335,T3 - Cost creates stratified access,0.0030775360172696103
+2,1.3333333333333333,T5 - The emotional burden is invisible,0.0005503947742097031
+8,2.7777777777777777,T6 - Self-taught by default; endo support is thin,0.008119235886717287
+9,2.2666666666666666,T1 - The mental math never stops,0.0023109312699816226
+10,2.727272727272727,T5 - The emotional burden is invisible,0.000667606093099975
+5,1.9333333333333333,T3 - Cost creates stratified access,0.0003366145015231139
+7,2.5357142857142856,T1 - The mental math never stops,0.003735477742107328
+7,2.2142857142857144,T6 - Self-taught by default; endo support is thin,8.112545308935101e-05
+9,2.2666666666666666,T6 - Self-taught by default; endo support is thin,0.0022447719432501408
+11,2.8484848484848486,T4 - Hardware friction is constant,0.0019458912472803925
+8,2.5555555555555554,T6 - Self-taught by default; endo support is thin,0.001587268345155209
+13,3.087912087912088,T2 - Overnight is the frontier of fear,0.004433829463272162
+5,1.8666666666666667,T1 - The mental math never stops,0.001069962032551539
+9,2.7333333333333334,T3 - Cost creates stratified access,0.0037053863709999926
+6,1.9047619047619047,T6 - Self-taught by default; endo support is thin,0.0029660773725105434
+8,2.5,T1 - The mental math never stops,0.0009434149190698012
+8,2.7222222222222223,T1 - The mental math never stops,0.006097729437333773
+7,1.9285714285714286,T3 - Cost creates stratified access,0.006345235276987095
+14,3.3904761904761904,T2 - Overnight is the frontier of fear,0.015877184381603515
+6,2.1904761904761907,T2 - Overnight is the frontier of fear,1.2015013762681195e-05
+9,2.7333333333333334,T1 - The mental math never stops,0.0038680023099302873
+13,2.4615384615384617,T2 - Overnight is the frontier of fear,0.006986789099515471
+13,2.8351648351648353,T4 - Hardware friction is constant,5.0443602972867855e-05
+15,2.9,T4 - Hardware friction is constant,6.834243799623352e-05
+7,2.5357142857142856,T3 - Cost creates stratified access,0.0035374834493402795
+13,2.5384615384615383,T6 - Self-taught by default; endo support is thin,0.0029669654222737223
+2,1.3333333333333333,T5 - The emotional burden is invisible,0.0005503947742097031
+6,2.0,T6 - Self-taught by default; endo support is thin,0.0008113252306706771
+8,2.388888888888889,T3 - Cost creates stratified access,7.961053816012556e-06
+11,2.212121212121212,T4 - Hardware friction is constant,0.013686779154971625
+10,2.8363636363636364,T2 - Overnight is the frontier of fear,0.0028400039426864925
+7,2.4285714285714284,T2 - Overnight is the frontier of fear,0.00102106210350615
+15,2.725,T2 - Overnight is the frontier of fear,0.002882635435553814
+8,2.6666666666666665,T5 - The emotional burden is invisible,0.003080332617006709
+15,3.341666666666667,T4 - Hardware friction is constant,0.011846416674366124
+13,2.7362637362637363,T2 - Overnight is the frontier of fear,0.00039278195329918577
+14,2.5142857142857142,T1 - The mental math never stops,0.006647230229744009
+11,2.3484848484848486,T6 - Self-taught by default; endo support is thin,0.004793788278983035
+2,1.3333333333333333,T3 - Cost creates stratified access,3.627194616414708e-05
+5,2.3333333333333335,T6 - Self-taught by default; endo support is thin,0.006143069374278221
+6,2.1904761904761907,T5 - The emotional burden is invisible,8.97346512226751e-08
+12,2.8205128205128207,T3 - Cost creates stratified access,0.0004754945377733997
+4,1.8,T6 - Self-taught by default; endo support is thin,5.338737244852308e-05
+5,1.8666666666666667,T3 - Cost creates stratified access,0.0010519069589762227
+15,3.0083333333333333,T2 - Overnight is the frontier of fear,0.0002334331328837006
+14,2.9904761904761905,T4 - Hardware friction is constant,0.0009399555478347061
+15,2.7583333333333333,T3 - Cost creates stratified access,0.0016096836718667666
+2,1.3333333333333333,T6 - Self-taught by default; endo support is thin,7.184242488833154e-06
+12,2.5641025641025643,T4 - Hardware friction is constant,0.002264463412224161
+4,2.0,T3 - Cost creates stratified access,0.0019360093451982043
+12,2.948717948717949,T4 - Hardware friction is constant,0.0027250729537865812
+13,2.8351648351648353,T5 - The emotional burden is invisible,8.304168515377727e-06
+4,1.8,T4 - Hardware friction is constant,0.00014483115545454458
+9,2.111111111111111,T2 - Overnight is the frontier of fear,0.007581285302866485
+2,1.3333333333333333,T2 - Overnight is the frontier of fear,0.00023985755217862637
+10,2.690909090909091,T4 - Hardware friction is constant,0.0005942182155051928
+12,2.641025641025641,T6 - Self-taught by default; endo support is thin,0.00023101476176470005
+14,2.3047619047619046,T6 - Self-taught by default; endo support is thin,0.015572633341800568
+2,1.3333333333333333,T6 - Self-taught by default; endo support is thin,7.184242488833154e-06
+15,2.691666666666667,T6 - Self-taught by default; endo support is thin,0.0031372760494046076
+8,2.111111111111111,T1 - The mental math never stops,0.003616701345277083
+14,2.6095238095238096,T3 - Cost creates stratified access,0.004109984443112493
+11,2.787878787878788,T6 - Self-taught by default; endo support is thin,0.0011141593472097516
+15,3.058333333333333,T6 - Self-taught by default; endo support is thin,0.0013575736853975713
+2,1.3333333333333333,T4 - Hardware friction is constant,0.00013283493754397168
+4,1.8,T1 - The mental math never stops,2.9499819106187093e-05
+12,2.871794871794872,T4 - Hardware friction is constant,0.00109900124133593
+3,1.6666666666666667,T4 - Hardware friction is constant,2.130815849701275e-05
+8,2.4444444444444446,T4 - Hardware friction is constant,8.787798247449096e-05
+13,3.197802197802198,T3 - Cost creates stratified access,0.009675418475216213
+15,2.7,T4 - Hardware friction is constant,0.003692229707985358
+8,2.5555555555555554,T3 - Cost creates stratified access,0.0017578164922433465
+4,2.0,T2 - Overnight is the frontier of fear,0.0014321280985251682
+11,2.484848484848485,T5 - The emotional burden is invisible,0.0029263131160345837
+14,2.419047619047619,T1 - The mental math never stops,0.011246430223974403
+8,2.4444444444444446,T1 - The mental math never stops,0.0002192778543581527
+13,2.4175824175824174,T3 - Cost creates stratified access,0.008576422848670108
+3,1.6666666666666667,T2 - Overnight is the frontier of fear,4.42992858696338e-05
+10,2.727272727272727,T6 - Self-taught by default; endo support is thin,0.001391516623922854
+14,3.142857142857143,T3 - Cost creates stratified access,0.0049385630457044515
+7,2.5,T3 - Cost creates stratified access,0.00300462582209225
+10,1.9636363636363636,T2 - Overnight is the frontier of fear,0.019721968394154046
+13,2.4395604395604398,T3 - Cost creates stratified access,0.007590762409190997
+11,3.0454545454545454,T1 - The mental math never stops,0.00850144620882831
+13,2.4505494505494507,T6 - Self-taught by default; endo support is thin,0.0055382415224546995
+10,2.8,T1 - The mental math never stops,0.002866270241795286
+2,1.3333333333333333,T6 - Self-taught by default; endo support is thin,7.184242488833154e-06
+8,1.9444444444444444,T2 - Overnight is the frontier of fear,0.010338557916450903
+7,1.75,T1 - The mental math never stops,0.014402069516923225
+8,2.5555555555555554,T4 - Hardware friction is constant,0.001333488067734118
+2,1.3333333333333333,T4 - Hardware friction is constant,0.00022724820485288145
+11,2.9545454545454546,T3 - Cost creates stratified access,0.00505965883025465
+7,2.392857142857143,T5 - The emotional burden is invisible,0.0002644930970937486
+13,2.6153846153846154,T6 - Self-taught by default; endo support is thin,0.0013700392589729865
+3,1.6666666666666667,T6 - Self-taught by default; endo support is thin,0.00020643083699487737
+15,3.375,T6 - Self-taught by default; endo support is thin,0.012531566904857336
+6,2.4761904761904763,T2 - Overnight is the frontier of fear,0.004527947361653429
+12,2.717948717948718,T6 - Self-taught by default; endo support is thin,3.5979181619729796e-06
+14,2.876190476190476,T4 - Hardware friction is constant,1.5617949124877974e-06
+3,1.6666666666666667,T3 - Cost creates stratified access,0.00016056589720497562
+6,1.9047619047619047,T3 - Cost creates stratified access,0.0033749996184747203
+3,1.6666666666666667,T5 - The emotional burden is invisible,7.691144223958543e-08
+11,2.6666666666666665,T4 - Hardware friction is constant,3.6752893727730465e-06
+15,3.125,T5 - The emotional burden is invisible,0.001712528489378115
+5,2.1333333333333333,T5 - The emotional burden is invisible,0.0003560027766831839
+5,1.8666666666666667,T1 - The mental math never stops,0.001069962032551539
+9,2.7555555555555555,T6 - Self-taught by default; endo support is thin,0.0040195899313469445
+4,1.8,T2 - Overnight is the frontier of fear,0.00022315394255478113
+5,1.8666666666666667,T1 - The mental math never stops,0.0009556631893446533
+2,1.3333333333333333,T3 - Cost creates stratified access,8.480178787551884e-05
+2,1.3333333333333333,T3 - Cost creates stratified access,8.480178787551884e-05
+7,2.392857142857143,T3 - Cost creates stratified access,0.0008762233420980573
+4,1.8,T5 - The emotional burden is invisible,0.0004138537929607996
+12,2.5641025641025643,T2 - Overnight is the frontier of fear,0.0018547634118642566
+15,3.075,T6 - Self-taught by default; endo support is thin,0.0016644651388422389
+13,2.868131868131868,T6 - Self-taught by default; endo support is thin,0.00041374751104930835
+9,2.5555555555555554,T3 - Cost creates stratified access,0.00026032035717108066
+4,1.8,T4 - Hardware friction is constant,0.00014483115545454458
+14,3.104761904761905,T4 - Hardware friction is constant,0.0036081251050040365
+15,2.908333333333333,T1 - The mental math never stops,7.562989259761935e-07
+8,2.5555555555555554,T2 - Overnight is the frontier of fear,0.0010247380635254359
+5,2.066666666666667,T4 - Hardware friction is constant,0.00014536000753247367
+11,3.0303030303030303,T1 - The mental math never stops,0.007866235600611246
+6,2.4761904761904763,T2 - Overnight is the frontier of fear,0.004527947361653429
+4,1.8,T4 - Hardware friction is constant,0.00023113902482255902
+11,2.590909090909091,T1 - The mental math never stops,0.0001172757449689566
+8,2.388888888888889,T2 - Overnight is the frontier of fear,1.9797530024233694e-05
+14,2.3047619047619046,T6 - Self-taught by default; endo support is thin,0.018366645254209446
+13,2.318681318681319,T5 - The emotional burden is invisible,0.019136780496837053
+9,2.3333333333333335,T3 - Cost creates stratified access,0.0012536576935958357
+13,3.043956043956044,T1 - The mental math never stops,0.004097516471369739
+10,2.4727272727272727,T4 - Hardware friction is constant,0.0006887344080939526
+11,2.106060606060606,T2 - Overnight is the frontier of fear,0.016560347705131765
+12,3.0,T1 - The mental math never stops,0.0047767475421266236
+6,2.1904761904761907,T2 - Overnight is the frontier of fear,1.2015013762681195e-05
+5,1.8666666666666667,T3 - Cost creates stratified access,0.0011792321852121294
+12,2.948717948717949,T5 - The emotional burden is invisible,0.002303180199717231
+4,2.0,T1 - The mental math never stops,0.00186569968437518
+10,2.5454545454545454,T4 - Hardware friction is constant,0.00014126454493448504
+11,2.484848484848485,T3 - Cost creates stratified access,0.0014938707795503468
+3,1.6666666666666667,T3 - Cost creates stratified access,8.899481087063286e-05
+10,2.8363636363636364,T5 - The emotional burden is invisible,0.0033235571054453703
+5,2.1333333333333333,T1 - The mental math never stops,0.0010235468073785028
+8,2.4444444444444446,T5 - The emotional burden is invisible,5.67885119949028e-06
+13,2.3626373626373627,T4 - Hardware friction is constant,0.012576034679187682
+15,2.8916666666666666,T1 - The mental math never stops,1.0971856998407273e-05
+10,2.4727272727272727,T1 - The mental math never stops,0.0003771635529551101
+9,2.7111111111111112,T4 - Hardware friction is constant,0.00265969768915694
+10,2.5090909090909093,T5 - The emotional burden is invisible,0.0007549699576747203
+3,1.6666666666666667,T3 - Cost creates stratified access,0.00016056589720497562
+3,1.6666666666666667,T1 - The mental math never stops,0.00023849250692986585
+9,2.7333333333333334,T6 - Self-taught by default; endo support is thin,0.0032405456664152906
+15,2.716666666666667,T5 - The emotional burden is invisible,0.0046528585144905345
+11,3.0757575757575757,T2 - Overnight is the frontier of fear,0.008050763617081378
+10,2.4363636363636365,T4 - Hardware friction is constant,0.0012221947957470277
+13,2.21978021978022,T1 - The mental math never stops,0.018538643750937035

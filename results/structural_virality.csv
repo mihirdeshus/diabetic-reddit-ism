@@ -1,0 +1,301 @@
+post_id,subreddit,num_comments,tree_nodes,direct_replies,max_depth,structural_virality,theme
+post_00001,diabetes_t1,12,13,8,2,2.358974358974359,T6 - Self-taught by default; endo support is thin
+post_00002,diabetes_t1,8,9,3,4,2.5555555555555554,T6 - Self-taught by default; endo support is thin
+post_00003,diabetes,15,16,8,4,3.0166666666666666,T1 - The mental math never stops
+post_00004,diabetes_t1,5,6,1,4,2.1333333333333333,T1 - The mental math never stops
+post_00005,diabetes_t1,3,4,2,2,1.6666666666666667,T4 - Hardware friction is constant
+post_00006,diabetes_t1,13,14,7,3,2.6043956043956045,T4 - Hardware friction is constant
+post_00007,diabetes_t1,6,7,3,3,2.380952380952381,T6 - Self-taught by default; endo support is thin
+post_00008,diabetes_t1,14,15,9,2,2.419047619047619,T5 - The emotional burden is invisible
+post_00009,diabetes_t1,13,14,5,3,2.7032967032967035,T4 - Hardware friction is constant
+post_00010,diabetes_t1,10,11,6,2,2.290909090909091,T5 - The emotional burden is invisible
+post_00011,diabetes_t1,7,8,3,2,2.392857142857143,T6 - Self-taught by default; endo support is thin
+post_00012,diabetes_t1,9,10,2,3,2.466666666666667,T1 - The mental math never stops
+post_00013,diabetes_t1,10,11,5,4,2.8,T4 - Hardware friction is constant
+post_00014,diabetes,6,7,5,2,1.9047619047619047,T5 - The emotional burden is invisible
+post_00015,diabetes,7,8,3,4,2.5,T2 - Overnight is the frontier of fear
+post_00016,diabetes,4,5,2,2,1.8,T2 - Overnight is the frontier of fear
+post_00017,diabetes_t1,11,12,7,4,2.6666666666666665,T6 - Self-taught by default; endo support is thin
+post_00018,diabetes,5,6,5,1,1.6666666666666667,T1 - The mental math never stops
+post_00019,diabetes_t1,6,7,3,4,2.4761904761904763,T2 - Overnight is the frontier of fear
+post_00020,diabetes,8,9,2,4,2.5,T4 - Hardware friction is constant
+post_00021,diabetes_t1,4,5,2,3,2.0,T6 - Self-taught by default; endo support is thin
+post_00022,diabetes_t1,14,15,5,4,2.9904761904761905,T2 - Overnight is the frontier of fear
+post_00023,diabetes,15,16,5,4,2.975,T6 - Self-taught by default; endo support is thin
+post_00024,diabetes_t1,5,6,4,2,1.8666666666666667,T2 - Overnight is the frontier of fear
+post_00025,diabetes_t1,15,16,4,7,3.875,T5 - The emotional burden is invisible
+post_00026,diabetes_t1,7,8,4,3,2.25,T5 - The emotional burden is invisible
+post_00027,diabetes_t1,6,7,4,2,2.0952380952380953,T5 - The emotional burden is invisible
+post_00028,diabetes,10,11,8,2,2.109090909090909,T6 - Self-taught by default; endo support is thin
+post_00029,diabetes_t1,12,13,3,3,2.871794871794872,T2 - Overnight is the frontier of fear
+post_00030,diabetes,7,8,4,3,2.392857142857143,T4 - Hardware friction is constant
+post_00031,diabetes_t1,15,16,8,4,2.8,T2 - Overnight is the frontier of fear
+post_00032,diabetes,15,16,8,4,2.875,T2 - Overnight is the frontier of fear
+post_00033,diabetes,15,16,9,5,3.075,T4 - Hardware friction is constant
+post_00034,diabetes,11,12,5,3,2.484848484848485,T5 - The emotional burden is invisible
+post_00035,diabetes_t1,4,5,1,4,2.0,T5 - The emotional burden is invisible
+post_00036,diabetes_t1,2,3,1,2,1.3333333333333333,T2 - Overnight is the frontier of fear
+post_00037,diabetes,8,9,5,2,2.2777777777777777,T6 - Self-taught by default; endo support is thin
+post_00038,diabetes,10,11,3,4,3.090909090909091,T5 - The emotional burden is invisible
+post_00039,diabetes_t1,13,14,6,3,2.912087912087912,T5 - The emotional burden is invisible
+post_00040,diabetes_t1,6,7,2,4,2.6666666666666665,T4 - Hardware friction is constant
+post_00041,diabetes_t1,8,9,4,3,2.388888888888889,T2 - Overnight is the frontier of fear
+post_00042,diabetes,12,13,5,4,2.948717948717949,T2 - Overnight is the frontier of fear
+post_00043,diabetes,10,11,7,3,2.3636363636363638,T5 - The emotional burden is invisible
+post_00044,diabetes,4,5,1,3,1.8,T4 - Hardware friction is constant
+post_00045,diabetes,2,3,2,1,1.3333333333333333,T6 - Self-taught by default; endo support is thin
+post_00046,diabetes,15,16,6,5,3.316666666666667,T5 - The emotional burden is invisible
+post_00047,diabetes,7,8,2,4,2.5714285714285716,T3 - Cost creates stratified access
+post_00048,diabetes,15,16,6,3,2.7416666666666667,T2 - Overnight is the frontier of fear
+post_00049,diabetes_t1,15,16,9,5,3.091666666666667,T3 - Cost creates stratified access
+post_00050,diabetes,13,14,8,4,2.67032967032967,T1 - The mental math never stops
+post_00051,diabetes,15,16,7,4,3.1416666666666666,T6 - Self-taught by default; endo support is thin
+post_00052,diabetes_t1,7,8,6,2,1.9285714285714286,T6 - Self-taught by default; endo support is thin
+post_00053,diabetes,7,8,5,3,2.2142857142857144,T6 - Self-taught by default; endo support is thin
+post_00054,diabetes,10,11,5,2,2.327272727272727,T1 - The mental math never stops
+post_00055,diabetes,14,15,9,3,2.5142857142857142,T6 - Self-taught by default; endo support is thin
+post_00056,diabetes_t1,9,10,6,2,2.2666666666666666,T1 - The mental math never stops
+post_00057,diabetes,12,13,5,3,2.923076923076923,T2 - Overnight is the frontier of fear
+post_00058,diabetes,13,14,3,4,3.230769230769231,T1 - The mental math never stops
+post_00059,diabetes_t1,5,6,2,3,2.3333333333333335,T6 - Self-taught by default; endo support is thin
+post_00060,diabetes_t1,2,3,2,1,1.3333333333333333,T4 - Hardware friction is constant
+post_00061,diabetes_t1,12,13,3,4,3.3333333333333335,T6 - Self-taught by default; endo support is thin
+post_00062,diabetes,4,5,2,2,1.8,T2 - Overnight is the frontier of fear
+post_00063,diabetes,3,4,3,1,1.5,T2 - Overnight is the frontier of fear
+post_00064,diabetes,6,7,3,3,2.380952380952381,T1 - The mental math never stops
+post_00065,diabetes,9,10,5,4,2.577777777777778,T1 - The mental math never stops
+post_00066,diabetes_t1,4,5,3,2,1.8,T6 - Self-taught by default; endo support is thin
+post_00067,diabetes,6,7,5,2,1.9047619047619047,T5 - The emotional burden is invisible
+post_00068,diabetes_t1,4,5,3,2,1.8,T3 - Cost creates stratified access
+post_00069,diabetes_t1,7,8,6,2,1.9285714285714286,T3 - Cost creates stratified access
+post_00070,diabetes_t1,14,15,8,3,2.6095238095238096,T1 - The mental math never stops
+post_00071,diabetes,2,3,1,2,1.3333333333333333,T4 - Hardware friction is constant
+post_00072,diabetes,9,10,3,4,2.7777777777777777,T5 - The emotional burden is invisible
+post_00073,diabetes_t1,2,3,2,1,1.3333333333333333,T2 - Overnight is the frontier of fear
+post_00074,diabetes,7,8,4,3,2.392857142857143,T3 - Cost creates stratified access
+post_00075,diabetes,15,16,8,4,2.8333333333333335,T3 - Cost creates stratified access
+post_00076,diabetes,4,5,3,2,1.8,T1 - The mental math never stops
+post_00077,diabetes_t1,9,10,5,4,2.6444444444444444,T1 - The mental math never stops
+post_00078,diabetes_t1,6,7,4,3,2.1904761904761907,T5 - The emotional burden is invisible
+post_00079,diabetes_t1,14,15,8,3,2.742857142857143,T6 - Self-taught by default; endo support is thin
+post_00080,diabetes,8,9,3,3,2.3333333333333335,T1 - The mental math never stops
+post_00081,diabetes,10,11,5,3,2.4727272727272727,T1 - The mental math never stops
+post_00082,diabetes,13,14,7,4,2.8241758241758244,T5 - The emotional burden is invisible
+post_00083,diabetes_t1,13,14,7,4,2.857142857142857,T3 - Cost creates stratified access
+post_00084,diabetes_t1,8,9,6,3,2.2222222222222223,T4 - Hardware friction is constant
+post_00085,diabetes,12,13,5,4,3.076923076923077,T3 - Cost creates stratified access
+post_00086,diabetes,2,3,1,2,1.3333333333333333,T2 - Overnight is the frontier of fear
+post_00087,diabetes_t1,9,10,5,4,2.577777777777778,T5 - The emotional burden is invisible
+post_00088,diabetes,3,4,2,2,1.6666666666666667,T5 - The emotional burden is invisible
+post_00089,diabetes_t1,7,8,3,4,2.5357142857142856,T3 - Cost creates stratified access
+post_00090,diabetes,11,12,5,4,2.9242424242424243,T3 - Cost creates stratified access
+post_00091,diabetes,10,11,1,4,2.5454545454545454,T5 - The emotional burden is invisible
+post_00092,diabetes_t1,9,10,5,2,2.3777777777777778,T2 - Overnight is the frontier of fear
+post_00093,diabetes_t1,13,14,5,4,3.340659340659341,T2 - Overnight is the frontier of fear
+post_00094,diabetes,2,3,1,2,1.3333333333333333,T4 - Hardware friction is constant
+post_00095,diabetes_t1,8,9,2,4,2.7222222222222223,T2 - Overnight is the frontier of fear
+post_00096,diabetes,8,9,4,3,2.4444444444444446,T1 - The mental math never stops
+post_00097,diabetes,4,5,2,3,2.0,T4 - Hardware friction is constant
+post_00098,diabetes_t1,11,12,3,5,2.8181818181818183,T1 - The mental math never stops
+post_00099,diabetes,7,8,2,3,2.392857142857143,T3 - Cost creates stratified access
+post_00100,diabetes,12,13,6,3,2.641025641025641,T6 - Self-taught by default; endo support is thin
+post_00101,diabetes,8,9,6,2,2.111111111111111,T3 - Cost creates stratified access
+post_00102,diabetes_t1,13,14,10,2,2.21978021978022,T1 - The mental math never stops
+post_00103,diabetes,4,5,2,3,2.0,T1 - The mental math never stops
+post_00104,diabetes,10,11,7,3,2.3636363636363638,T1 - The mental math never stops
+post_00105,diabetes_t1,12,13,6,4,2.6666666666666665,T2 - Overnight is the frontier of fear
+post_00106,diabetes,15,16,7,5,3.183333333333333,T3 - Cost creates stratified access
+post_00107,diabetes,4,5,2,2,2.0,T6 - Self-taught by default; endo support is thin
+post_00108,diabetes,8,9,3,3,2.6666666666666665,T5 - The emotional burden is invisible
+post_00109,diabetes,5,6,2,2,1.8666666666666667,T1 - The mental math never stops
+post_00110,diabetes,8,9,5,2,2.2777777777777777,T6 - Self-taught by default; endo support is thin
+post_00111,diabetes_t1,12,13,7,4,2.6923076923076925,T2 - Overnight is the frontier of fear
+post_00112,diabetes,5,6,3,3,2.1333333333333333,T6 - Self-taught by default; endo support is thin
+post_00113,diabetes_t1,5,6,1,3,2.066666666666667,T6 - Self-taught by default; endo support is thin
+post_00114,diabetes_t1,11,12,3,5,3.1515151515151514,T2 - Overnight is the frontier of fear
+post_00115,diabetes,6,7,2,3,2.1904761904761907,T4 - Hardware friction is constant
+post_00116,diabetes,15,16,6,5,3.5416666666666665,T1 - The mental math never stops
+post_00117,diabetes_t1,10,11,7,3,2.3636363636363638,T4 - Hardware friction is constant
+post_00118,diabetes_t1,3,4,2,2,1.6666666666666667,T6 - Self-taught by default; endo support is thin
+post_00119,diabetes,9,10,7,2,2.111111111111111,T2 - Overnight is the frontier of fear
+post_00120,diabetes_t1,13,14,2,3,3.1758241758241756,T2 - Overnight is the frontier of fear
+post_00121,diabetes_t1,2,3,1,2,1.3333333333333333,T5 - The emotional burden is invisible
+post_00122,diabetes,7,8,4,3,2.392857142857143,T3 - Cost creates stratified access
+post_00123,diabetes,4,5,2,3,2.0,T5 - The emotional burden is invisible
+post_00124,diabetes,13,14,7,3,2.6483516483516483,T2 - Overnight is the frontier of fear
+post_00125,diabetes,13,14,7,3,2.6153846153846154,T3 - Cost creates stratified access
+post_00126,diabetes_t1,4,5,4,1,1.6,T4 - Hardware friction is constant
+post_00127,diabetes_t1,14,15,9,3,2.5142857142857142,T2 - Overnight is the frontier of fear
+post_00128,diabetes_t1,7,8,3,2,2.25,T2 - Overnight is the frontier of fear
+post_00129,diabetes,2,3,1,2,1.3333333333333333,T5 - The emotional burden is invisible
+post_00130,diabetes_t1,12,13,7,3,2.5384615384615383,T1 - The mental math never stops
+post_00131,diabetes,10,11,5,4,2.6545454545454548,T6 - Self-taught by default; endo support is thin
+post_00132,diabetes_t1,9,10,3,4,2.577777777777778,T2 - Overnight is the frontier of fear
+post_00133,diabetes_t1,11,12,5,3,2.4393939393939394,T5 - The emotional burden is invisible
+post_00134,diabetes_t1,14,15,6,4,2.742857142857143,T3 - Cost creates stratified access
+post_00135,diabetes_t1,6,7,1,4,2.0952380952380953,T4 - Hardware friction is constant
+post_00136,diabetes_t1,7,8,5,3,2.2142857142857144,T3 - Cost creates stratified access
+post_00137,diabetes_t1,6,7,5,2,1.9047619047619047,T3 - Cost creates stratified access
+post_00138,diabetes,7,8,7,1,1.75,T3 - Cost creates stratified access
+post_00139,diabetes,6,7,5,2,1.9047619047619047,T2 - Overnight is the frontier of fear
+post_00140,diabetes,12,13,6,3,2.769230769230769,T6 - Self-taught by default; endo support is thin
+post_00141,diabetes_t1,2,3,1,2,1.3333333333333333,T6 - Self-taught by default; endo support is thin
+post_00142,diabetes_t1,5,6,5,1,1.6666666666666667,T6 - Self-taught by default; endo support is thin
+post_00143,diabetes_t1,4,5,2,3,2.0,T5 - The emotional burden is invisible
+post_00144,diabetes,4,5,2,2,2.0,T5 - The emotional burden is invisible
+post_00145,diabetes,15,16,8,3,2.7083333333333335,T3 - Cost creates stratified access
+post_00146,diabetes,2,3,2,1,1.3333333333333333,T5 - The emotional burden is invisible
+post_00147,diabetes,8,9,3,4,2.7777777777777777,T6 - Self-taught by default; endo support is thin
+post_00148,diabetes,9,10,6,2,2.2666666666666666,T1 - The mental math never stops
+post_00149,diabetes,10,11,5,4,2.727272727272727,T5 - The emotional burden is invisible
+post_00150,diabetes,5,6,1,3,1.9333333333333333,T3 - Cost creates stratified access
+post_00151,diabetes,7,8,4,4,2.5357142857142856,T1 - The mental math never stops
+post_00152,diabetes_t1,7,8,4,2,2.2142857142857144,T6 - Self-taught by default; endo support is thin
+post_00153,diabetes,9,10,6,2,2.2666666666666666,T6 - Self-taught by default; endo support is thin
+post_00154,diabetes,11,12,6,4,2.8484848484848486,T4 - Hardware friction is constant
+post_00155,diabetes_t1,8,9,3,4,2.5555555555555554,T6 - Self-taught by default; endo support is thin
+post_00156,diabetes_t1,13,14,5,4,3.087912087912088,T2 - Overnight is the frontier of fear
+post_00157,diabetes,5,6,4,2,1.8666666666666667,T1 - The mental math never stops
+post_00158,diabetes_t1,9,10,4,4,2.7333333333333334,T3 - Cost creates stratified access
+post_00159,diabetes,6,7,5,2,1.9047619047619047,T6 - Self-taught by default; endo support is thin
+post_00160,diabetes_t1,8,9,4,3,2.5,T1 - The mental math never stops
+post_00161,diabetes,8,9,3,4,2.7222222222222223,T1 - The mental math never stops
+post_00162,diabetes_t1,7,8,2,2,1.9285714285714286,T3 - Cost creates stratified access
+post_00163,diabetes_t1,14,15,3,4,3.3904761904761904,T2 - Overnight is the frontier of fear
+post_00164,diabetes,6,7,3,2,2.1904761904761907,T2 - Overnight is the frontier of fear
+post_00165,diabetes_t1,9,10,4,4,2.7333333333333334,T1 - The mental math never stops
+post_00166,diabetes_t1,13,14,8,2,2.4615384615384617,T2 - Overnight is the frontier of fear
+post_00167,diabetes_t1,13,14,6,4,2.8351648351648353,T4 - Hardware friction is constant
+post_00168,diabetes_t1,15,16,6,3,2.9,T4 - Hardware friction is constant
+post_00169,diabetes,7,8,4,4,2.5357142857142856,T3 - Cost creates stratified access
+post_00170,diabetes_t1,13,14,9,3,2.5384615384615383,T6 - Self-taught by default; endo support is thin
+post_00171,diabetes,2,3,2,1,1.3333333333333333,T5 - The emotional burden is invisible
+post_00172,diabetes_t1,6,7,4,2,2.0,T6 - Self-taught by default; endo support is thin
+post_00173,diabetes_t1,8,9,4,2,2.388888888888889,T3 - Cost creates stratified access
+post_00174,diabetes,11,12,8,2,2.212121212121212,T4 - Hardware friction is constant
+post_00175,diabetes,10,11,5,4,2.8363636363636364,T2 - Overnight is the frontier of fear
+post_00176,diabetes_t1,7,8,3,3,2.4285714285714284,T2 - Overnight is the frontier of fear
+post_00177,diabetes,15,16,8,3,2.725,T2 - Overnight is the frontier of fear
+post_00178,diabetes,8,9,3,3,2.6666666666666665,T5 - The emotional burden is invisible
+post_00179,diabetes,15,16,3,4,3.341666666666667,T4 - Hardware friction is constant
+post_00180,diabetes,13,14,7,3,2.7362637362637363,T2 - Overnight is the frontier of fear
+post_00181,diabetes_t1,14,15,9,3,2.5142857142857142,T1 - The mental math never stops
+post_00182,diabetes,11,12,7,2,2.3484848484848486,T6 - Self-taught by default; endo support is thin
+post_00183,diabetes_t1,2,3,1,2,1.3333333333333333,T3 - Cost creates stratified access
+post_00184,diabetes,5,6,2,4,2.3333333333333335,T6 - Self-taught by default; endo support is thin
+post_00185,diabetes_t1,6,7,3,2,2.1904761904761907,T5 - The emotional burden is invisible
+post_00186,diabetes,12,13,5,3,2.8205128205128207,T3 - Cost creates stratified access
+post_00187,diabetes,4,5,1,3,1.8,T6 - Self-taught by default; endo support is thin
+post_00188,diabetes_t1,5,6,4,2,1.8666666666666667,T3 - Cost creates stratified access
+post_00189,diabetes,15,16,7,4,3.0083333333333333,T2 - Overnight is the frontier of fear
+post_00190,diabetes_t1,14,15,5,3,2.9904761904761905,T4 - Hardware friction is constant
+post_00191,diabetes_t1,15,16,7,3,2.7583333333333333,T3 - Cost creates stratified access
+post_00192,diabetes_t1,2,3,1,2,1.3333333333333333,T6 - Self-taught by default; endo support is thin
+post_00193,diabetes,12,13,7,3,2.5641025641025643,T4 - Hardware friction is constant
+post_00194,diabetes_t1,4,5,2,3,2.0,T3 - Cost creates stratified access
+post_00195,diabetes_t1,12,13,4,4,2.948717948717949,T4 - Hardware friction is constant
+post_00196,diabetes,13,14,5,3,2.8351648351648353,T5 - The emotional burden is invisible
+post_00197,diabetes_t1,4,5,3,2,1.8,T4 - Hardware friction is constant
+post_00198,diabetes,9,10,7,2,2.111111111111111,T2 - Overnight is the frontier of fear
+post_00199,diabetes,2,3,2,1,1.3333333333333333,T2 - Overnight is the frontier of fear
+post_00200,diabetes,10,11,4,3,2.690909090909091,T4 - Hardware friction is constant
+post_00201,diabetes_t1,12,13,7,3,2.641025641025641,T6 - Self-taught by default; endo support is thin
+post_00202,diabetes_t1,14,15,10,2,2.3047619047619046,T6 - Self-taught by default; endo support is thin
+post_00203,diabetes_t1,2,3,2,1,1.3333333333333333,T6 - Self-taught by default; endo support is thin
+post_00204,diabetes,15,16,8,3,2.691666666666667,T6 - Self-taught by default; endo support is thin
+post_00205,diabetes_t1,8,9,6,2,2.111111111111111,T1 - The mental math never stops
+post_00206,diabetes,14,15,7,2,2.6095238095238096,T3 - Cost creates stratified access
+post_00207,diabetes_t1,11,12,6,4,2.787878787878788,T6 - Self-taught by default; endo support is thin
+post_00208,diabetes_t1,15,16,6,3,3.058333333333333,T6 - Self-taught by default; endo support is thin
+post_00209,diabetes_t1,2,3,2,1,1.3333333333333333,T4 - Hardware friction is constant
+post_00210,diabetes_t1,4,5,2,2,1.8,T1 - The mental math never stops
+post_00211,diabetes_t1,12,13,4,3,2.871794871794872,T4 - Hardware friction is constant
+post_00212,diabetes,3,4,1,3,1.6666666666666667,T4 - Hardware friction is constant
+post_00213,diabetes,8,9,4,3,2.4444444444444446,T4 - Hardware friction is constant
+post_00214,diabetes,13,14,5,5,3.197802197802198,T3 - Cost creates stratified access
+post_00215,diabetes_t1,15,16,10,4,2.7,T4 - Hardware friction is constant
+post_00216,diabetes_t1,8,9,3,4,2.5555555555555554,T3 - Cost creates stratified access
+post_00217,diabetes_t1,4,5,1,4,2.0,T2 - Overnight is the frontier of fear
+post_00218,diabetes,11,12,7,3,2.484848484848485,T5 - The emotional burden is invisible
+post_00219,diabetes,14,15,9,2,2.419047619047619,T1 - The mental math never stops
+post_00220,diabetes,8,9,4,3,2.4444444444444446,T1 - The mental math never stops
+post_00221,diabetes_t1,13,14,9,3,2.4175824175824174,T3 - Cost creates stratified access
+post_00222,diabetes_t1,3,4,2,2,1.6666666666666667,T2 - Overnight is the frontier of fear
+post_00223,diabetes,10,11,5,4,2.727272727272727,T6 - Self-taught by default; endo support is thin
+post_00224,diabetes,14,15,4,5,3.142857142857143,T3 - Cost creates stratified access
+post_00225,diabetes_t1,7,8,3,3,2.5,T3 - Cost creates stratified access
+post_00226,diabetes,10,11,9,2,1.9636363636363636,T2 - Overnight is the frontier of fear
+post_00227,diabetes_t1,13,14,9,3,2.4395604395604398,T3 - Cost creates stratified access
+post_00228,diabetes,11,12,2,5,3.0454545454545454,T1 - The mental math never stops
+post_00229,diabetes_t1,13,14,8,3,2.4505494505494507,T6 - Self-taught by default; endo support is thin
+post_00230,diabetes,10,11,5,4,2.8,T1 - The mental math never stops
+post_00231,diabetes_t1,2,3,2,1,1.3333333333333333,T6 - Self-taught by default; endo support is thin
+post_00232,diabetes,8,9,7,2,1.9444444444444444,T2 - Overnight is the frontier of fear
+post_00233,diabetes_t1,7,8,7,1,1.75,T1 - The mental math never stops
+post_00234,diabetes,8,9,3,3,2.5555555555555554,T4 - Hardware friction is constant
+post_00235,diabetes,2,3,2,1,1.3333333333333333,T4 - Hardware friction is constant
+post_00236,diabetes,11,12,5,4,2.9545454545454546,T3 - Cost creates stratified access
+post_00237,diabetes,7,8,4,3,2.392857142857143,T5 - The emotional burden is invisible
+post_00238,diabetes_t1,13,14,8,3,2.6153846153846154,T6 - Self-taught by default; endo support is thin
+post_00239,diabetes_t1,3,4,1,3,1.6666666666666667,T6 - Self-taught by default; endo support is thin
+post_00240,diabetes_t1,15,16,6,5,3.375,T6 - Self-taught by default; endo support is thin
+post_00241,diabetes,6,7,3,4,2.4761904761904763,T2 - Overnight is the frontier of fear
+post_00242,diabetes_t1,12,13,5,3,2.717948717948718,T6 - Self-taught by default; endo support is thin
+post_00243,diabetes_t1,14,15,6,3,2.876190476190476,T4 - Hardware friction is constant
+post_00244,diabetes_t1,3,4,2,2,1.6666666666666667,T3 - Cost creates stratified access
+post_00245,diabetes,6,7,5,2,1.9047619047619047,T3 - Cost creates stratified access
+post_00246,diabetes_t1,3,4,2,2,1.6666666666666667,T5 - The emotional burden is invisible
+post_00247,diabetes,11,12,7,4,2.6666666666666665,T4 - Hardware friction is constant
+post_00248,diabetes,15,16,6,4,3.125,T5 - The emotional burden is invisible
+post_00249,diabetes,5,6,3,3,2.1333333333333333,T5 - The emotional burden is invisible
+post_00250,diabetes,5,6,4,2,1.8666666666666667,T1 - The mental math never stops
+post_00251,diabetes,9,10,3,4,2.7555555555555555,T6 - Self-taught by default; endo support is thin
+post_00252,diabetes,4,5,2,2,1.8,T2 - Overnight is the frontier of fear
+post_00253,diabetes_t1,5,6,4,2,1.8666666666666667,T1 - The mental math never stops
+post_00254,diabetes,2,3,1,2,1.3333333333333333,T3 - Cost creates stratified access
+post_00255,diabetes,2,3,2,1,1.3333333333333333,T3 - Cost creates stratified access
+post_00256,diabetes_t1,7,8,3,2,2.392857142857143,T3 - Cost creates stratified access
+post_00257,diabetes_t1,4,5,2,2,1.8,T5 - The emotional burden is invisible
+post_00258,diabetes,12,13,8,4,2.5641025641025643,T2 - Overnight is the frontier of fear
+post_00259,diabetes_t1,15,16,8,5,3.075,T6 - Self-taught by default; endo support is thin
+post_00260,diabetes_t1,13,14,4,4,2.868131868131868,T6 - Self-taught by default; endo support is thin
+post_00261,diabetes,9,10,4,3,2.5555555555555554,T3 - Cost creates stratified access
+post_00262,diabetes_t1,4,5,3,2,1.8,T4 - Hardware friction is constant
+post_00263,diabetes_t1,14,15,5,4,3.104761904761905,T4 - Hardware friction is constant
+post_00264,diabetes_t1,15,16,7,4,2.908333333333333,T1 - The mental math never stops
+post_00265,diabetes,8,9,3,3,2.5555555555555554,T2 - Overnight is the frontier of fear
+post_00266,diabetes_t1,5,6,2,3,2.066666666666667,T4 - Hardware friction is constant
+post_00267,diabetes,11,12,4,4,3.0303030303030303,T1 - The mental math never stops
+post_00268,diabetes,6,7,2,3,2.4761904761904763,T2 - Overnight is the frontier of fear
+post_00269,diabetes,4,5,2,2,1.8,T4 - Hardware friction is constant
+post_00270,diabetes_t1,11,12,7,3,2.590909090909091,T1 - The mental math never stops
+post_00271,diabetes,8,9,5,3,2.388888888888889,T2 - Overnight is the frontier of fear
+post_00272,diabetes,14,15,10,2,2.3047619047619046,T6 - Self-taught by default; endo support is thin
+post_00273,diabetes_t1,13,14,10,3,2.318681318681319,T5 - The emotional burden is invisible
+post_00274,diabetes,9,10,3,3,2.3333333333333335,T3 - Cost creates stratified access
+post_00275,diabetes_t1,13,14,6,4,3.043956043956044,T1 - The mental math never stops
+post_00276,diabetes_t1,10,11,6,3,2.4727272727272727,T4 - Hardware friction is constant
+post_00277,diabetes,11,12,9,2,2.106060606060606,T2 - Overnight is the frontier of fear
+post_00278,diabetes_t1,12,13,4,3,3.0,T1 - The mental math never stops
+post_00279,diabetes,6,7,2,2,2.1904761904761907,T2 - Overnight is the frontier of fear
+post_00280,diabetes,5,6,4,2,1.8666666666666667,T3 - Cost creates stratified access
+post_00281,diabetes_t1,12,13,5,3,2.948717948717949,T5 - The emotional burden is invisible
+post_00282,diabetes,4,5,1,4,2.0,T1 - The mental math never stops
+post_00283,diabetes,10,11,6,3,2.5454545454545454,T4 - Hardware friction is constant
+post_00284,diabetes_t1,11,12,7,3,2.484848484848485,T3 - Cost creates stratified access
+post_00285,diabetes,3,4,2,2,1.6666666666666667,T3 - Cost creates stratified access
+post_00286,diabetes_t1,10,11,4,4,2.8363636363636364,T5 - The emotional burden is invisible
+post_00287,diabetes,5,6,2,3,2.1333333333333333,T1 - The mental math never stops
+post_00288,diabetes,8,9,4,3,2.4444444444444446,T5 - The emotional burden is invisible
+post_00289,diabetes_t1,13,14,8,3,2.3626373626373627,T4 - Hardware friction is constant
+post_00290,diabetes_t1,15,16,8,4,2.8916666666666666,T1 - The mental math never stops
+post_00291,diabetes_t1,10,11,5,3,2.4727272727272727,T1 - The mental math never stops
+post_00292,diabetes_t1,9,10,2,4,2.7111111111111112,T4 - Hardware friction is constant
+post_00293,diabetes,10,11,6,3,2.5090909090909093,T5 - The emotional burden is invisible
+post_00294,diabetes_t1,3,4,1,3,1.6666666666666667,T3 - Cost creates stratified access
+post_00295,diabetes_t1,3,4,2,2,1.6666666666666667,T1 - The mental math never stops
+post_00296,diabetes_t1,9,10,3,3,2.7333333333333334,T6 - Self-taught by default; endo support is thin
+post_00297,diabetes,15,16,8,3,2.716666666666667,T5 - The emotional burden is invisible
+post_00298,diabetes,11,12,3,4,3.0757575757575757,T2 - Overnight is the frontier of fear
+post_00299,diabetes_t1,10,11,6,3,2.4363636363636365,T4 - Hardware friction is constant
+post_00300,diabetes_t1,13,14,10,2,2.21978021978022,T1 - The mental math never stops
